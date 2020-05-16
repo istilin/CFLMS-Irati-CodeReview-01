@@ -1,0 +1,49 @@
+#container{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+img{
+	width: 100%;
+}
+
+header{
+}
+
+#first{
+}
+
+#first h3{
+}
+
+#first img{
+}
+
+nav{
+}
+
+nav ul {
+}
+
+nav ul li {
+}
+
+footer{
+	clear: both;
+	padding: 40px 0px 0px 0px;
+}
+
+#footerbox{
+	text-align: center;
+	height: 200px;
+	width: 0 auto;
+	background-color: #CABBB7;
+	padding: 20px;
+}
+
+#logoend{
+	width: 20em;
+}
+
+#footerbox p{
+	font-size: 1.5em;
+}
