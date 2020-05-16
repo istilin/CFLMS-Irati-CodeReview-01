@@ -1,0 +1,45 @@
+
+#firstblog {
+	width: 800px;
+	padding-left: 50px;
+	padding-right: 50px;
+	align-content: center;
+	box-shadow: 5px 0 5px -5px #333;
+	box-shadow: -5px 0 5px -5px #333;
+	align-self: center;
+	margin: 0 auto;
+}
+p,li {
+	color: #707070;
+}
+header {
+	text-align: center;
+	background-color: #f4f4f4;
+	padding-bottom: 10px;
+}
+#first{
+	text-align: center;
+}
+h1 {
+	color: #3998A3;
+	
+}
+h2 {
+	color: #DB0038;
+	
+}
+h3 {
+	color: #474747;
+}
+
+li {
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#omelette{
+	text-align: center;
+	width: 60%;
+	align-self: center;
+	margin: 0 auto;
+}
