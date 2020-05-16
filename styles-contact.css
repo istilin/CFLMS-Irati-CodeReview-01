@@ -3,16 +3,31 @@
 }
 
 main{
-	width: 0 auto;
 	position: relative;
-	width: 80%;
+	width: 800px;
 	align-self: center;
-	margin: auto;
 	text-align: center;
-	font-size: 1.8em;
+	font-size: 1.2em;
 	line-height: 1.6;
+	padding: 50px;
+	align-content: center;
+	box-shadow: 5px 0 5px -5px #333;
+	box-shadow: -5px 0 5px -5px #333;
+	margin: 0 auto;
+}
+
+h1 {
+	color: #3998A3;
+}
+
+h2 {
+	color: #DB0038;
+}
+p {
+	color: #707070;
 }
 
 input, select, textarea{
 	font-size: 0.8em;
+
 }
